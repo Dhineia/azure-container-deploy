@@ -36,6 +36,7 @@ azure-container-deploy/
 └── .github/
     └── workflows/
         └── docker-deploy.yml
+---
 
 ![Access Secrets](https://github.com/user-attachments/assets/9063db54-6c4b-4d1a-8e40-eb25a42528b0)
 ![Username and password](https://github.com/user-attachments/assets/c273849d-3a1b-4204-a954-cba4daf99a28)
