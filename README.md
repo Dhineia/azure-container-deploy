@@ -38,12 +38,19 @@ azure-container-deploy/
         └── docker-deploy.yml
 ---
 
-![Access Secrets](https://github.com/user-attachments/assets/9063db54-6c4b-4d1a-8e40-eb25a42528b0)
-![Username and password](https://github.com/user-attachments/assets/c273849d-3a1b-4204-a954-cba4daf99a28)
-![Add Secrets](https://github.com/user-attachments/assets/52609f57-d4e2-4532-924b-6d52e2b5e590)
-![Web App](https://github.com/user-attachments/assets/c60616c9-1f95-4181-99fb-187f2dce5b27)
-![Click the URL](https://github.com/user-attachments/assets/510f4d3f-0a67-4bb8-8fb2-b7592f2b625e)
-![Output](https://github.com/user-attachments/assets/d2ff7d04-29b7-4f03-be9f-b81268c06d15)
+![Access Secrets](https://github.com/user-attachments/assets/98c722b2-a76b-4545-a7ea-ac17270a26e7)
+![Username and password](https://github.com/user-attachments/assets/c8110afa-b760-43aa-b724-b4ff6c188bbc)
+![Add Secrets](https://github.com/user-attachments/assets/51486af0-63e3-4fc5-98fd-ec094462d448)
+![Web App](https://github.com/user-attachments/assets/41f8910f-7045-47c9-84d5-8036d910d6d9)
+![Click the URL](https://github.com/user-attachments/assets/f621189f-e38b-4409-ab84-e0193f0ce21d)
+![Output](https://github.com/user-attachments/assets/d429f72b-8124-4b80-b95c-c8805d47194f)
+
+
+
+
+
+
+
 
 
 
